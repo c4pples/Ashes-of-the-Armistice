@@ -1,4 +1,4 @@
-﻿capital = 418
+﻿capital = 202
 oob = "AOTA_UKR_land"
 set_air_oob = "AOTA_UKR_air"
 set_research_slots = 2
