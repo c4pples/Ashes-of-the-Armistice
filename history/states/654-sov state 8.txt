@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=654
 	name="STATE_654" # Gorno-Altaysk

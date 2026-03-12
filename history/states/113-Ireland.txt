@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=113
 	name="STATE_113" # Leinster

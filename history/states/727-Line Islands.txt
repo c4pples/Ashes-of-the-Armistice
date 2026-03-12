@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=727
 	name="STATE_727"
 	manpower=5367

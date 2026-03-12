@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 736
 	name = "STATE_736" #Name was Istria before the Pola (Istria) split and merge with Fiume
 	

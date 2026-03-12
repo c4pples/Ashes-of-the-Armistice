@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=28
 	name="STATE_28" # Alsace-Lorraine

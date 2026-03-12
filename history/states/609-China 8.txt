@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 609
 	name = "STATE_609" # East Hebei
 	manpower = 6960000 # was 6400000

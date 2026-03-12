@@ -1,4 +1,4 @@
-﻿
+
 state = {
 	id = 574
 	name = "STATE_574" # Yakutsk

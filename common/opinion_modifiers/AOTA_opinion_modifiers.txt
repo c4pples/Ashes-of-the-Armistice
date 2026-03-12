@@ -1,3 +1,4 @@
+opinion_modifiers = {
 aota_postwar_resentment = {
     value = -35
     decay = 0
@@ -48,4 +49,5 @@ aota_china_temporary_settlement = {
 aota_china_collaboration_crackdown = {
     value = -20
     decay = 0
+}
 }

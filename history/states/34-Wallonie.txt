@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 34
 	name = "STATE_34"
 	manpower = 3043170 # was 3381300, 10% was split off to the Ardennes (980)

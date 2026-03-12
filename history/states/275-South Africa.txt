@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=275
 	name="STATE_275" # Transvaal

@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 532
 	name = "STATE_532" # Tokai
 	manpower = 7174000 # was 6174000

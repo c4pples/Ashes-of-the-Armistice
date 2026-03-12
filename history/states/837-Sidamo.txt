@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 837 # Sidamo (including Gammu Gofa)
 	name = "STATE_837"
 	manpower = 950000

@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=225
 	name="STATE_225" # Sumy

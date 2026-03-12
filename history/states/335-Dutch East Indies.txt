@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=335
 	name="STATE_335" # Java

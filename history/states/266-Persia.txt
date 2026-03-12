@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=266
 	name="STATE_266" # Tehran

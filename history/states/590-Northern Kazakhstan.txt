@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=590
 	name="STATE_590" # Akmolinsk
