@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 155
 	name = "STATE_155" # North Transdanubia
 	manpower = 1465070 # was 2197605

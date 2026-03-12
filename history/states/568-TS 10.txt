@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=568
 	name="STATE_568" # Krasnoyarsk

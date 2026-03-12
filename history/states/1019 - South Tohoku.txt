@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 1019
 	name = "STATE_1019" # South Tohoku
 	manpower = 2796521 # Unified tohoku is about 6575000 

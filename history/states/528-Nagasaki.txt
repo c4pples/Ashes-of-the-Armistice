@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 528
 	name = "STATE_528" # North Kyushu
 	manpower = 6046000 # was 9069000

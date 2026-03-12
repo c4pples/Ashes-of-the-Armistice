@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 535
 	name = "STATE_535" # was Koshinetsu, is actually Hokuriku
 	manpower = 3871000

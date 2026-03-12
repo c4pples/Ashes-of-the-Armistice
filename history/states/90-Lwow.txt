@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=90
 	name="STATE_90" # Kielce
 	manpower = 1835700

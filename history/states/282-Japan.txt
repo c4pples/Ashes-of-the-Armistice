@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 282
 	name = "STATE_282" # Kanto
 	manpower = 15773000 # was 13773000

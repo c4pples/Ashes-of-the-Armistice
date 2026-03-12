@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=566
 	name="STATE_566" #Irktusk
 	

@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=564
 	name="STATE_564" # Ulan Ude

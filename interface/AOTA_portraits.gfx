@@ -14,8 +14,6 @@ spriteTypes = {
     spriteType = { name = "GFX_AOTA_ITA_ciano" texturefile = "gfx/leaders/ITA/AOTA_ITA_ciano.png" }
     spriteType = { name = "GFX_AOTA_SER_petar" texturefile = "gfx/leaders/SER/AOTA_SER_petar.png" }
     spriteType = { name = "GFX_AOTA_BEL_leader" texturefile = "gfx/leaders/BEL/AOTA_BEL_leader.png" }
-}
-
     spriteType = { name = "GFX_AOTA_TUR_abdulmecid" texturefile = "gfx/leaders/TUR/TUR_abdulmecid_osmanoglu.png" }
     spriteType = { name = "GFX_AOTA_TUR_fevzi" texturefile = "gfx/leaders/TUR/TUR_fevzi_cakmak_civilian.png" }
     spriteType = { name = "GFX_AOTA_TUR_ismet" texturefile = "gfx/leaders/TUR/TUR_ismet_inonu.png" }
@@ -33,3 +31,4 @@ spriteType = { name = "GFX_AOTA_SOV_wrangel" texturefile = "gfx/leaders/SOV/AOTA
 spriteType = { name = "GFX_AOTA_SOV_maria" texturefile = "gfx/leaders/SOV/AOTA_SOV_maria.png" }
 spriteType = { name = "GFX_AOTA_SOV_kollontai" texturefile = "gfx/leaders/SOV/AOTA_SOV_kollontai.png" }
 spriteType = { name = "GFX_AOTA_SOV_makhno" texturefile = "gfx/leaders/SOV/AOTA_SOV_makhno.png" }
+}

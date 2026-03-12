@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=27
 	name="STATE_27" # Bourgogne

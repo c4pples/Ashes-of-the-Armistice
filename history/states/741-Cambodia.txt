@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=741
 	name="STATE_741"
 	history = {

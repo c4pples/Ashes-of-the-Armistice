@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=567
 	name="STATE_567" # Bratsk

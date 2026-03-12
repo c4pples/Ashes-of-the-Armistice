@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=193
 	name="STATE_193" # Chernihiv

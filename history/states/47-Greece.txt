@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=47
 	name="STATE_47" # Thessaly
