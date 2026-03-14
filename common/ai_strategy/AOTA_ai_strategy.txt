@@ -13,9 +13,4 @@ ai_strategy_plan = {
 		id = "GER"
 		value = 90
 	}
-	ai_strategy = {
-		type = area_defense
-		id = 361
-		value = 200
-	}
 }
