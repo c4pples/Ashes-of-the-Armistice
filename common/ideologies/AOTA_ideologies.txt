@@ -24,6 +24,7 @@ ideologies = {
     }
     anarchism = {
         types = {
+            anarchism = { can_be_randomly_selected = no }
             anarchist_communism = {}
             anarcho_syndicalist_subtype = {}
             communal_anarchist_subtype = {}
