@@ -1,0 +1,64 @@
+[15:32:08][no_game_date][idea.cpp:707]: Idea: category defined in aota_balkan_powderkeg (deprecated)
+[15:32:08][no_game_date][idea.cpp:707]: Idea: category defined in aota_spanish_neutral_brittleness (deprecated)
+[15:32:11][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 59
+[15:32:11][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 59" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 64
+[15:32:11][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 93
+[15:32:11][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 93" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 98
+[15:32:11][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 173
+[15:32:11][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 173" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 177
+[15:32:11][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 204
+[15:32:11][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 204" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 208
+[15:32:11][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 238
+[15:32:11][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 238" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 242
+[15:32:11][no_game_date][decision.cpp:473]: Cost for normal missions not implemented. ID: AOTA_GER_manage_rhine
+[15:32:11][no_game_date][decision.cpp:473]: Cost for normal missions not implemented. ID: AOTA_GER_manage_rhine
+[15:32:12][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_CUB.txt:335: recruit_character should only happen in game/history files in order to be executed only at game start
+[15:32:12][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_ENG.txt:1405: recruit_character should only happen in game/history files in order to be executed only at game start
+[15:32:12][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_GER.txt:216: recruit_character should only happen in game/history files in order to be executed only at game start
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 173
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 174
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 175
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 176
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 177
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 178
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 179
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 180
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 181
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 182
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 183
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 184
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 185
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 186
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 187
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 188
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 189
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 190
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 191
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 192
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 193
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 194
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 195
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 196
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 197
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 198
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 233
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 234
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 235
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 236
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 237
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 238
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 239
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 240
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 241
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 242
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 243
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 244
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 245
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 246
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 247
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 248
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 249
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 250
+[15:32:31][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 251
+[15:32:34][no_game_date][onaction.cpp:461]: lse is not a valid tag of on_monthly
+[15:32:57][no_game_date][lexer.cpp:229]: Tried to get dynamic token that does not exist: chief_of_army_cost_factor

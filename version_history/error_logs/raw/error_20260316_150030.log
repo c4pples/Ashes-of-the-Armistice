@@ -1,0 +1,153 @@
+[14:59:15][no_game_date][idea.cpp:707]: Idea: category defined in aota_balkan_powderkeg (deprecated)
+[14:59:15][no_game_date][idea.cpp:707]: Idea: category defined in aota_spanish_neutral_brittleness (deprecated)
+[14:59:18][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 59
+[14:59:18][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 59" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 64
+[14:59:18][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 93
+[14:59:18][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 93" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 98
+[14:59:18][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 173
+[14:59:18][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 173" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 177
+[14:59:18][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 204
+[14:59:18][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 204" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 208
+[14:59:18][no_game_date][trigger.cpp:700]: Invalid trigger 'limit' in common/decisions/AOTA_china_unification_decisions.txt line : 238
+[14:59:18][no_game_date][trigger.cpp:568]: Error: "Unknown trigger-type: limit, near line: 238" in file: "common/decisions/AOTA_china_unification_decisions.txt" near line: 242
+[14:59:18][no_game_date][decision.cpp:473]: Cost for normal missions not implemented. ID: AOTA_GER_manage_rhine
+[14:59:18][no_game_date][decision.cpp:473]: Cost for normal missions not implemented. ID: AOTA_GER_manage_rhine
+[14:59:20][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_CUB.txt:335: recruit_character should only happen in game/history files in order to be executed only at game start
+[14:59:20][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_ENG.txt:1405: recruit_character should only happen in game/history files in order to be executed only at game start
+[14:59:20][no_game_date][effectimplementation.cpp:5427]: common/national_focus/AOTA_GER.txt:216: recruit_character should only happen in game/history files in order to be executed only at game start
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 607" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 608
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 22376" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 22377
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 44146" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 44147
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 65916" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 65917
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 87686" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 87687
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 109307" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 109308
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 121596" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 121597
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 133745" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 133746
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 145894" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 145895
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 158068" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 158069
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 170457" in file: "common/scripted_localisation/00_scripted_localisation_countries_RU_loc.txt" near line: 170458
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 562" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 563
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 19960" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 19961
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 39280" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 39281
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 58601" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 58602
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 77903" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 77904
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 97063" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 97064
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 109198" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 109199
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 121333" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 121334
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 133468" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 133469
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 145641" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 145642
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 157981" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 157982
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 170329" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 170330
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 182824" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 182825
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 195308" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 195309
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 207572" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 207573
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 219828" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 219829
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 232092" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 232093
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 244329" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 244330
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 256464" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 256465
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 268626" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 268627
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 280890" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 280891
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 293127" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 293128
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 305305" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 305306
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 317738" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 317739
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 330165" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 330166
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 342532" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 342533
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 354882" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 354883
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 367119" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 367120
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 379371" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 379372
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 391600" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 391601
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 403770" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 403771
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 416034" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 416035
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 428263" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 428264
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 440398" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 440399
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 452533" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 452534
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 464668" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 464669
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 476830" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 476831
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 489094" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 489095
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 501351" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 501352
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 513588" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 513589
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 525835" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 525836
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 538175" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 538176
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 550485" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 550486
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 562620" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 562621
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 574782" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 574783
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 587046" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 587047
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 599283" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 599284
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 611418" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 611419
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 623553" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 623554
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 635688" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 635689
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 647850" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 647851
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 660114" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 660115
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 672351" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 672352
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 684486" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 684487
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 696621" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 696622
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 708756" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 708757
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 720891" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 720892
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 733026" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 733027
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 745196" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 745197
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 757460" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 757461
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 769689" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 769690
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 781824" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 781825
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 793959" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 793960
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 806094" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 806095
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 818229" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 818230
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 830364" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 830365
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 842499" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 842500
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 854634" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 854635
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 866769" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 866770
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 878932" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 878933
+[14:59:32][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 891169" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 891170
+[14:59:33][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 903413" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 903414
+[14:59:33][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 915642" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 915643
+[14:59:33][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 927777" in file: "common/scripted_localisation/FR_SCRIPTING_FULL_AUTOMATED.txt" near line: 927778
+[14:59:33][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 19" in file: "common/scripted_triggers/ETH_scripted_triggers.txt" near line: 20
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 173
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 174
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 175
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 176
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 177
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 178
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 179
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 180
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 181
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 182
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 183
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 184
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 185
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 186
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 187
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 188
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 189
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 190
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 191
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 192
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 193
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 194
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 195
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 196
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 197
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 198
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 233
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 234
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 235
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 236
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 237
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 238
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 239
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 240
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 241
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 242
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 243
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 244
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 245
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 246
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 247
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 248
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 249
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 250
+[14:59:36][no_game_date][effect.cpp:433]: Invalid scope type for effect set_state_owner in events/AOTA_events.txt line : 251
+[14:59:37][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 464" in file: "events/NSB_NewsEvents.txt" near line: 464
+[14:59:37][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 489" in file: "events/NSB_NewsEvents.txt" near line: 490
+[14:59:37][no_game_date][trigger.cpp:568]: Error: "Not a valid value: anarchism, near line: 514" in file: "events/NSB_NewsEvents.txt" near line: 514
+[14:59:38][no_game_date][onaction.cpp:461]: lse is not a valid tag of on_monthly
+[14:59:57][no_game_date][lexer.cpp:229]: Tried to get dynamic token that does not exist: chief_of_army_cost_factor

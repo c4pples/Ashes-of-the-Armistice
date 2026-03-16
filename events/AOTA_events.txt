@@ -170,39 +170,39 @@ country_event = {
             release = ACG
             release = ASL
             release = CCW
-            395 = { add_core_of = AWU set_state_owner = AWU }
-            394 = { add_core_of = AWU set_state_owner = AWU }
-            393 = { add_core_of = AWU set_state_owner = AWU }
-            396 = { add_core_of = AWU set_state_owner = AWU }
-            261 = { add_core_of = AWU set_state_owner = AWU }
-            375 = { add_core_of = ANA set_state_owner = ANA }
-            374 = { add_core_of = ANA set_state_owner = ANA }
-            372 = { add_core_of = ANA set_state_owner = ANA }
-            367 = { add_core_of = ANA set_state_owner = ANA }
-            368 = { add_core_of = ANA set_state_owner = ANA }
-            378 = { add_core_of = APF set_state_owner = APF }
-            829 = { add_core_of = APF set_state_owner = APF }
-            385 = { add_core_of = APF set_state_owner = APF }
-            386 = { add_core_of = APF set_state_owner = APF }
-            379 = { add_core_of = APF set_state_owner = APF }
-            358 = { add_core_of = ACG set_state_owner = ACG }
-            359 = { add_core_of = ACG set_state_owner = ACG }
-            360 = { add_core_of = ACG set_state_owner = ACG }
-            932 = { add_core_of = ACG set_state_owner = ACG }
-            150 = { add_core_of = ASL set_state_owner = ASL }
-            364 = { add_core_of = ASL set_state_owner = ASL }
-            365 = { add_core_of = ASL set_state_owner = ASL }
-            366 = { add_core_of = ASL set_state_owner = ASL }
-            362 = { add_core_of = CCW set_state_owner = CCW }
-            363 = { add_core_of = CCW set_state_owner = CCW }
-            369 = { add_core_of = CCW set_state_owner = CCW }
+            395 = { add_core_of = AWU }
+            394 = { add_core_of = AWU }
+            393 = { add_core_of = AWU }
+            396 = { add_core_of = AWU }
+            261 = { add_core_of = AWU }
+            375 = { add_core_of = ANA }
+            374 = { add_core_of = ANA }
+            372 = { add_core_of = ANA }
+            367 = { add_core_of = ANA }
+            368 = { add_core_of = ANA }
+            378 = { add_core_of = APF }
+            829 = { add_core_of = APF }
+            385 = { add_core_of = APF }
+            386 = { add_core_of = APF }
+            379 = { add_core_of = APF }
+            358 = { add_core_of = ACG }
+            359 = { add_core_of = ACG }
+            360 = { add_core_of = ACG }
+            932 = { add_core_of = ACG }
+            150 = { add_core_of = ASL }
+            364 = { add_core_of = ASL }
+            365 = { add_core_of = ASL }
+            366 = { add_core_of = ASL }
+            362 = { add_core_of = CCW }
+            363 = { add_core_of = CCW }
+            369 = { add_core_of = CCW }
             361 = { add_core_of = CCW }
-            AWU = { set_capital = { state = 395 } declare_war_on = { target = USA type = annex_everything } }
-            ANA = { set_capital = { state = 375 } declare_war_on = { target = USA type = annex_everything } }
-            APF = { set_capital = { state = 378 } declare_war_on = { target = USA type = annex_everything } }
-            ACG = { set_capital = { state = 358 } declare_war_on = { target = USA type = annex_everything } }
-            ASL = { set_capital = { state = 150 } declare_war_on = { target = USA type = annex_everything } }
-            CCW = { set_capital = { state = 362 } declare_war_on = { target = USA type = annex_everything } }
+            AWU = { transfer_state = 395 transfer_state = 394 transfer_state = 393 transfer_state = 396 transfer_state = 261 set_capital = { state = 395 } declare_war_on = { target = USA type = annex_everything } }
+            ANA = { transfer_state = 375 transfer_state = 374 transfer_state = 372 transfer_state = 367 transfer_state = 368 set_capital = { state = 375 } declare_war_on = { target = USA type = annex_everything } }
+            APF = { transfer_state = 378 transfer_state = 829 transfer_state = 385 transfer_state = 386 transfer_state = 379 set_capital = { state = 378 } declare_war_on = { target = USA type = annex_everything } }
+            ACG = { transfer_state = 358 transfer_state = 359 transfer_state = 360 transfer_state = 932 set_capital = { state = 358 } declare_war_on = { target = USA type = annex_everything } }
+            ASL = { transfer_state = 150 transfer_state = 364 transfer_state = 365 transfer_state = 366 set_capital = { state = 150 } declare_war_on = { target = USA type = annex_everything } }
+            CCW = { transfer_state = 362 transfer_state = 363 transfer_state = 369 set_capital = { state = 362 } declare_war_on = { target = USA type = annex_everything } }
             
             ACC = { country_event = { id = aota.210 days = 1 } }
             AWU = { country_event = { id = aota.211 days = 1 } }
@@ -230,28 +230,28 @@ country_event = {
             release = AWU
             release = ANA
             release = APF
-            395 = { add_core_of = AWU set_state_owner = AWU }
-            394 = { add_core_of = AWU set_state_owner = AWU }
-            393 = { add_core_of = AWU set_state_owner = AWU }
-            396 = { add_core_of = AWU set_state_owner = AWU }
-            261 = { add_core_of = AWU set_state_owner = AWU }
-            375 = { add_core_of = ANA set_state_owner = ANA }
-            374 = { add_core_of = ANA set_state_owner = ANA }
-            372 = { add_core_of = ANA set_state_owner = ANA }
-            364 = { add_core_of = ANA set_state_owner = ANA }
-            365 = { add_core_of = ANA set_state_owner = ANA }
-            366 = { add_core_of = ANA set_state_owner = ANA }
-            367 = { add_core_of = ANA set_state_owner = ANA }
-            368 = { add_core_of = ANA set_state_owner = ANA }
-            369 = { add_core_of = ANA set_state_owner = ANA }
-            378 = { add_core_of = APF set_state_owner = APF }
-            829 = { add_core_of = APF set_state_owner = APF }
-            385 = { add_core_of = APF set_state_owner = APF }
-            386 = { add_core_of = APF set_state_owner = APF }
-            379 = { add_core_of = APF set_state_owner = APF }
-            AWU = { set_capital = { state = 395 } declare_war_on = { target = USA type = annex_everything } }
-            ANA = { set_capital = { state = 375 } declare_war_on = { target = USA type = annex_everything } }
-            APF = { set_capital = { state = 378 } declare_war_on = { target = USA type = annex_everything } }
+            395 = { add_core_of = AWU }
+            394 = { add_core_of = AWU }
+            393 = { add_core_of = AWU }
+            396 = { add_core_of = AWU }
+            261 = { add_core_of = AWU }
+            375 = { add_core_of = ANA }
+            374 = { add_core_of = ANA }
+            372 = { add_core_of = ANA }
+            364 = { add_core_of = ANA }
+            365 = { add_core_of = ANA }
+            366 = { add_core_of = ANA }
+            367 = { add_core_of = ANA }
+            368 = { add_core_of = ANA }
+            369 = { add_core_of = ANA }
+            378 = { add_core_of = APF }
+            829 = { add_core_of = APF }
+            385 = { add_core_of = APF }
+            386 = { add_core_of = APF }
+            379 = { add_core_of = APF }
+            AWU = { transfer_state = 395 transfer_state = 394 transfer_state = 393 transfer_state = 396 transfer_state = 261 set_capital = { state = 395 } declare_war_on = { target = USA type = annex_everything } }
+            ANA = { transfer_state = 375 transfer_state = 374 transfer_state = 372 transfer_state = 364 transfer_state = 365 transfer_state = 366 transfer_state = 367 transfer_state = 368 transfer_state = 369 set_capital = { state = 375 } declare_war_on = { target = USA type = annex_everything } }
+            APF = { transfer_state = 378 transfer_state = 829 transfer_state = 385 transfer_state = 386 transfer_state = 379 set_capital = { state = 378 } declare_war_on = { target = USA type = annex_everything } }
             
             ACC = { country_event = { id = aota.210 days = 1 } }
             AWU = { country_event = { id = aota.211 days = 1 } }

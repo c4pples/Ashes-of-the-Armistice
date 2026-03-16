@@ -56,11 +56,9 @@ AOTA_china_unification_category = {
             has_country_flag = AOTA_china_unification_initialized
             AOTA_china_legitimacy_at_least_20 = yes
             any_country = {
-                limit = {
-                    AOTA_china_unification_actor = yes
-                    NOT = { tag = ROOT }
-                    is_subject = no
-                }
+                AOTA_china_unification_actor = yes
+                NOT = { tag = ROOT }
+                is_subject = no
             }
         }
         complete_effect = {
@@ -90,11 +88,9 @@ AOTA_china_unification_category = {
             AOTA_china_legitimacy_at_least_40 = yes
             has_war = no
             any_country = {
-                limit = {
-                    AOTA_china_unification_actor = yes
-                    NOT = { tag = ROOT }
-                    is_subject = no
-                }
+                AOTA_china_unification_actor = yes
+                NOT = { tag = ROOT }
+                is_subject = no
             }
         }
         complete_effect = {
@@ -170,10 +166,8 @@ AOTA_japan_china_unification_response_category = {
                 AOTA_japan_pressure_focus_online = yes
             }
             any_country = {
-                limit = {
-                    AOTA_china_unification_actor = yes
-                    has_country_flag = AOTA_china_stage_contested
-                }
+                AOTA_china_unification_actor = yes
+                has_country_flag = AOTA_china_stage_contested
             }
         }
         complete_effect = {
@@ -201,10 +195,8 @@ AOTA_japan_china_unification_response_category = {
                 AOTA_japan_pressure_focus_online = yes
             }
             any_country = {
-                limit = {
-                    AOTA_china_unification_actor = yes
-                    has_idea = AOTA_china_local_accommodation
-                }
+                AOTA_china_unification_actor = yes
+                has_idea = AOTA_china_local_accommodation
             }
         }
         complete_effect = {
@@ -235,10 +227,8 @@ AOTA_japan_china_unification_response_category = {
                 AOTA_japan_pressure_focus_online = yes
             }
             any_country = {
-                limit = {
-                    AOTA_china_unification_actor = yes
-                    has_country_flag = AOTA_china_stage_reunified
-                }
+                AOTA_china_unification_actor = yes
+                has_country_flag = AOTA_china_stage_reunified
             }
             NOT = { has_idea = AOTA_japan_reunified_china_watch }
         }

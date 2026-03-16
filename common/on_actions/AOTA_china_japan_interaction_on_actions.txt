@@ -1,5 +1,5 @@
 on_actions = {
-    on_monthly_pulse = {
+    on_monthly = {
         effect = {
             every_country = {
                 limit = {

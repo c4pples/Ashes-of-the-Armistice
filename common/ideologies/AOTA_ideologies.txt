@@ -10,6 +10,7 @@ ideologies = {
             orthodox_socialist_subtype = {}
             council_communist_subtype = {}
             national_bolshevik_subtype = {}
+            buddhist_socialism = {}
         }
         color = { 205 20 20 }
         rules = {
